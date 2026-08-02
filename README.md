@@ -1,139 +1,202 @@
-# Hi there 👋, I'm Muhammed Sajid
+# Hi 👋, I'm Muhammed Sajid
 
-## Full-Stack JavaScript Developer
+<h3 align="center">
+Full-Stack JavaScript Developer | Angular • NestJS • TypeScript • MongoDB
+</h3>
 
-I build scalable, production-ready web applications using **Angular**, **NestJS**, **TypeScript**, and **MongoDB**. I enjoy designing clean architectures, solving real-world problems, and creating applications that are both performant and user-friendly.
+<p align="center">
+I build scalable, production-ready web applications with modern technologies and clean architecture.
+</p>
 
-Currently focused on building enterprise-grade applications while continuously improving my knowledge of **System Design**, **Cloud Technologies**, and **Backend Architecture**.
+<p align="center">
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## 🚀 About Me
-
-* 💻 Full-Stack JavaScript Developer
-* 🌱 Currently expanding my knowledge in System Design, Docker, AWS, and scalable backend development
-* ⚡ Passionate about clean architecture, performance optimization, and writing maintainable code
-* 🤝 Interested in building products that solve real-world problems
-* 📍 Kerala, India
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Frontend
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge\&logo=reactivex\&logoColor=white)
-![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge\&logo=socketdotio)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-
-### Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode)
+<img src="https://komarev.com/ghpvc/?username=sajid189210&style=for-the-badge&color=blue"/>
+</p>
 
 ---
 
-# 🌟 Featured Project
+# 💫 About Me
+
+- 💻 Full-Stack JavaScript Developer
+- 🌱 Currently learning **System Design, Docker, Kubernetes & AWS**
+- 🚀 Passionate about scalable backend architecture
+- ⚡ Love building modern web applications
+- 📍 Kerala, India
+
+---
+
+# 🚀 Featured Project
 
 ## 🏠 Home Service Marketplace
 
-A full-stack service marketplace connecting customers with service providers through a modern booking platform.
+A complete service marketplace built using Angular & NestJS.
 
-### Key Features
+### Features
 
-* Secure Authentication & Authorization (JWT)
-* Customer, Provider & Admin Dashboards
-* Real-Time Chat using Socket.IO
-* Video Calling using WebRTC
-* Booking & Scheduling System
-* Provider Availability Management
-* Razorpay Payment Integration
-* Analytics Dashboard
-* Role-Based Access Control
-* Reviews & Ratings
-* Notification System
-* Responsive Angular UI
-* RESTful API built with NestJS
+- JWT Authentication
+- Customer Dashboard
+- Provider Dashboard
+- Admin Dashboard
+- Booking System
+- Schedule Management
+- Razorpay Payments
+- Socket.IO Real-time Chat
+- WebRTC Video Calling
+- Analytics Dashboard
+- Reviews & Ratings
+- Notifications
+- Responsive UI
 
 ### Tech Stack
 
-* Angular
-* NestJS
-* TypeScript
-* MongoDB
-* Redis
-* Socket.IO
-* WebRTC
-* JWT
-* Tailwind CSS
+Angular • NestJS • MongoDB • Redis • Socket.IO • WebRTC • JWT • TailwindCSS
 
 ---
 
-# 📈 GitHub Stats
+# 💻 Tech Stack
 
-<p align="center">
+## Languages
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sajid189210&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid189210&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css"/>
 </p>
 
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,tailwind,bootstrap"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socketdotio"/>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,redis"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge"/>
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sajid189210&theme=tokyonight&hide_border=true"/>
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=sajid189210&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid189210&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 🔥 GitHub Streak
 
-[![Muhammed Sajid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sajid189210\&theme=tokyo-night)](https://github.com/sajid189210)
+<p align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=sajid189210&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=sajid189210&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=sajid189210&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true"/>
+
+</p>
 
 ---
 
 # 🎯 Currently Learning
 
-* System Design
-* Docker
-* Kubernetes
-* AWS
-* CI/CD Pipelines
-* Microservices
-* Scalable Backend Architecture
+- System Design
+- Docker
+- Kubernetes
+- AWS
+- CI/CD
+- Microservices
+- Performance Optimization
 
 ---
 
-# 🤝 Let's Connect
+# 📌 Goals for 2026
 
-* LinkedIn: **Your LinkedIn URL**
-* Email: **[your.email@example.com](mailto:your.email@example.com)**
+- Build scalable production-ready applications
+- Master System Design
+- Learn Cloud Deployment
+- Contribute to Open Source
+- Improve DSA & Problem Solving
 
 ---
 
-> *"Great software isn't just about writing code—it's about solving problems with clean architecture, scalable systems, and great user experience."*
+# 🤝 Connect With Me
+
+<p>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐️ From <a href="https://github.com/sajid189210">Muhammed Sajid</a>
+
+</p>
