@@ -120,5 +120,5 @@ A full-stack e-commerce project built to practice server-side rendering, backend
 I'm interested in full-stack development opportunities, challenging engineering problems, and building useful software.
 
 - **GitHub:** [@sajid189210](https://github.com/sajid189210)
-- **LinkedIn:** [Add your LinkedIn profile URL](https://www.linkedin.com/in/muhammed-sajid-334858295/)
+- **LinkedIn:** [Muhammed Sajid S](https://www.linkedin.com/in/muhammed-sajid-334858295/)
 - **Email:** sajid189210@gmail.com
